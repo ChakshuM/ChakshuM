@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@chakshumad55643" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@chakshumad55643" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/chakshumadan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chakshumadan/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@madan_chakshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@madan_chakshu" height="30" width="40" /></a>
-<a href="/https://chakshum.github.io/chakshumadan.github.io/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chakshum.github.io/chakshumadan.github.io/index.html" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chakshumadan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chakshumadan/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/madan_chakshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@madan_chakshu" height="30" width="40" /></a>
+<a href="https://chakshum.github.io/ChakshuMadan.github.io/index.html" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://chakshum.github.io/ChakshuMadan.github.io/index.html" height="30" width="40" /></a>
 </p>
 
 
