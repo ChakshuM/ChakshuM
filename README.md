@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chakshum&label=Profile%20views&color=0e75b6&style=flat" alt="chakshum" /> </p>
 
-- 🔭 **Currently pursuing a Post-Graduate Certificate in Big Data Analytics from Humber College, I am a Data Engineer with over 10 years of experience in backend development, data analysis, and software testing across various industries, specializing in banking and finance. I have received multiple awards for my contributions to risk analysis, data transformation, and building ETL data pipelines while working with multinational companies. Proficient in SQL, Python, and Azure, I have consistently delivered impactful insights and solutions.**
+- 🔭 **Completed a Post-Graduate Certificate in Business Insights and Analytics from Humber College in September 2025. I am a Data Analyst and Engineer with over 11 years of experience in backend development, data analysis, and software testing across various industries, with a specialization in banking and finance. I have received multiple awards for contributions to risk analysis, data transformation, and the development of ETL data pipelines for multinational organizations. Proficient in SQL, Python, and Azure, I consistently deliver data-driven insights and scalable solutions.**
 
 - 🌱 I’m currently learning and enhancing my skills in Azure Data Factory, Microsoft Fabric, and Synapse to strengthen my expertise in data engineering and cloud-based solutions. **Studying Big Data Analytics at Humber College**
 
